@@ -1,0 +1,16 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.log
+*.key
+*.pem
+*.crt
+*.env
+www.nickstaggs.com
+
+node_modules
